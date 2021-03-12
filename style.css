@@ -23,6 +23,12 @@ body{
     .texto_dentro_imagem{
         font-size: 22px;
     }
+    #fundo_branco_head{
+        display: none;
+    }
+    #fundo_branco_meio{
+        display: none;  
+    } 
 }
 
 @media only screen and (max-width: 414px) {
@@ -64,9 +70,10 @@ body{
     position: absolute;
     font-size: 30px;
     font-weight: 100;
-    width: 700px;
+    width: 650px;
     margin-top: 14%;
     margin-left: 14.5%;  
+    color: #094391;
 }
 
 /* Cabeçalho */
