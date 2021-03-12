@@ -17,12 +17,6 @@ body{
         margin: 0px;
         float: none;
     }
-    #flexbox2{
-        position: absolute;
-        margin-top: 42%;
-        width: 100%;
-        height: 150%;
-    }
 }
 
 @font-face {
@@ -61,7 +55,6 @@ body{
     margin: 35px;
     float: left;
 }
-
 
 /* Cabeçalho */
 
