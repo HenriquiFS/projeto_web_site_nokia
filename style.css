@@ -42,7 +42,7 @@ body{
 
 .cabecalho{
     font-weight: lighter;
-    font-size: 18px;
+    font-size: 14px;
     float: left;
 }
 
@@ -68,7 +68,7 @@ body{
 
 #nokia1{
     color:#124191;
-    font-size: 12px;
+    font-size: 10px;
     font-family: NokiaPureHeadline;
     font-weight: 100;
     font-style: light;
